@@ -8,7 +8,8 @@ exports.seed = function(knex, Promise) {
         {monster_name: 'Frankie'},
         {monster_name: 'Joel'},
         {monster_name: 'Cookie'},
-        {monster_name: 'Mike Wizowski'}
+        {monster_name: 'Mike Wizowski'},
+        {monster_name: 'Sully'}
       ]);
     });
 };
